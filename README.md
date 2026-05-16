@@ -45,7 +45,7 @@ The Coffee Shop aims to create a sales analysis dashboard to understand customer
 
 ## Dashboard
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/your-dashboard-image-link)
+![Coffee Shop Dashboard](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 
 ## Project Insights
 - June recorded the highest sales revenue among all months.
@@ -57,8 +57,8 @@ The Coffee Shop aims to create a sales analysis dashboard to understand customer
 - Weekdays showed slightly higher sales performance than weekends.
 - Best-selling products included:
   - Barista Espresso
-  - Gourmet Brewed Coffee
   - Brewed Chai Tea
+  - Gourmet Brewed Coffee
 
 ## Final Conclusion
 To improve overall sales and customer retention, the Coffee Shop should focus on expanding high-performing product categories such as Coffee and Tea while targeting peak morning hours with promotional offers and combo deals. Since locations like Hell’s Kitchen and Astoria contribute significantly to revenue, localized marketing campaigns and customer loyalty programs can further increase repeat purchases and profitability.
