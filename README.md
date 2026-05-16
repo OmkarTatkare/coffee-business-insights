@@ -1,64 +1,62 @@
 # Coffee-Shop-Sales-Analysis (Interactive Dashboard Creation using MS Excel)
 
 ## Project Objective
-The Coffee Shop aims to create a sales analysis dashboard to understand customer purchasing behavior, track overall business performance, and identify key growth opportunities. This dashboard helps the business make data-driven decisions to improve sales and customer engagement.
+The Coffee Shop aims to create a comprehensive sales dashboard to analyze customer purchasing patterns, monitor business performance, and identify growth opportunities. The dashboard helps in making data-driven decisions to improve customer experience and increase overall sales.
 
 ## Dataset Used
-- Coffee Shop transactional sales dataset containing:
-  - Transaction details
-  - Product categories
-  - Store locations
-  - Sales revenue
-  - Quantity sold
-  - Time-based sales information
+- <a href="https://github.com/your-username/Coffee-Shop-Sales-Analysis/blob/main/coffee_shop_sales.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare sales performance across different months.
-- Which month generated the highest revenue?
-- Which day of the week recorded maximum sales?
-- What are the peak customer footfall hours?
-- Which store location contributes the highest sales?
-- Which product category generates maximum revenue?
-- Which product types are the best sellers?
-- Analyze sales based on product size.
-- Identify top-performing coffee and tea products.
-- Understand customer purchasing trends by time and category.
+- Which month generated the highest sales revenue?
+- Which day recorded maximum sales?
+- Analyze quantity sold based on hours.
+- Which store location contributes the highest revenue?
+- Which product category contributes maximum sales?
+- Analyze size distribution based on orders.
+- Identify top 5 products based on sales.
+- Compare weekday sales performance.
+- Average bill per person and average orders per person.
+
+- Dashboard Interaction <a href="https://github.com/your-username/Coffee-Shop-Sales-Analysis/blob/main/dashboard.png">View Dashboard</a>
 
 ## Process
 - Verified dataset for missing values and inconsistencies.
-- Cleaned and formatted the data for accurate analysis.
-- Created calculated columns such as:
+- Cleaned and transformed data for accurate analysis.
+- Created additional columns such as:
   - Month Name
   - Day Name
   - Hour
   - Total Bill
-- Built pivot tables to analyze:
-  - Revenue trends
-  - Product performance
-  - Store-wise sales
-  - Hourly customer traffic
+- Built pivot tables for:
+  - Sales trends
+  - Product analysis
+  - Store performance
+  - Hourly transaction analysis
 - Designed an interactive dashboard using:
   - Pivot Charts
-  - Slicers
   - KPI Cards
-  - Dynamic filtering options
+  - Slicers
+  - Dynamic filtering
 
 ## Dashboard
 
 ![Coffee Shop Dashboard](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 
 ## Project Insights
-- June recorded the highest sales revenue among all months.
-- Morning hours between **8 AM – 11 AM** had the highest customer footfall.
-- The **Hell’s Kitchen** store generated the highest revenue contribution.
-- Coffee products contributed the maximum share of total sales.
-- Tea and Bakery products also performed strongly across all locations.
-- Large-sized beverages generated higher revenue compared to small-sized products.
-- Weekdays showed slightly higher sales performance than weekends.
-- Best-selling products included:
+- June generated the highest overall sales among all months.
+- Peak customer activity was observed between **8 AM to 11 AM**.
+- **Hell’s Kitchen** contributed the highest store revenue.
+- Coffee products accounted for the maximum share of total sales.
+- Large-sized beverages were ordered the most.
+- Weekday sales were comparatively higher than weekend sales.
+- Top-selling products included:
   - Barista Espresso
   - Brewed Chai Tea
   - Gourmet Brewed Coffee
+  - Hot Chocolate
+- The average bill per person was approximately **4.69**.
+- More than **1.44 orders per customer** were recorded on average.
 
 ## Final Conclusion
-To improve overall sales and customer retention, the Coffee Shop should focus on expanding high-performing product categories such as Coffee and Tea while targeting peak morning hours with promotional offers and combo deals. Since locations like Hell’s Kitchen and Astoria contribute significantly to revenue, localized marketing campaigns and customer loyalty programs can further increase repeat purchases and profitability.
+To improve sales and customer engagement, the Coffee Shop should focus on promoting high-performing beverage categories such as Coffee and Tea during peak morning hours. Since stores like Hell’s Kitchen and Astoria generate strong revenue, targeted loyalty programs and localized promotional campaigns can further enhance customer retention and profitability.
