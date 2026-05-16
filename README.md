@@ -4,7 +4,7 @@
 The Coffee Shop aims to create a comprehensive sales dashboard to analyze customer purchasing patterns, monitor business performance, and identify growth opportunities. The dashboard helps in making data-driven decisions to improve customer experience and increase overall sales.
 
 ## Dataset Used
-- <a href="https://github.com/your-username/Coffee-Shop-Sales-Analysis/blob/main/coffee_shop_sales.xlsx">Dataset</a>
+- <a href="https://github.com/OmkarTatkare/coffee-business-insights/blob/main/Project_Coffee_Shop.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare sales performance across different months.
@@ -18,7 +18,7 @@ The Coffee Shop aims to create a comprehensive sales dashboard to analyze custom
 - Compare weekday sales performance.
 - Average bill per person and average orders per person.
 
-- Dashboard Interaction <a href="https://github.com/your-username/Coffee-Shop-Sales-Analysis/blob/main/dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/OmkarTatkare/coffee-business-insights/blob/main/Screenshot%202026-05-17%20033550.png">View Dashboard</a>
 
 ## Process
 - Verified dataset for missing values and inconsistencies.
@@ -41,7 +41,7 @@ The Coffee Shop aims to create a comprehensive sales dashboard to analyze custom
 
 ## Dashboard
 
-![Coffee Shop Dashboard](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Coffee Shop Dashboard](https://github.com/OmkarTatkare/coffee-business-insights/blob/main/Screenshot%202026-05-17%20033550.png)
 
 ## Project Insights
 - June generated the highest overall sales among all months.
