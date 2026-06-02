@@ -1,10 +1,21 @@
 # Coffee-Shop-Sales-Analysis (Interactive Dashboard Creation using MS Excel)
 
 ## Project Objective
-The Coffee Shop aims to create a comprehensive sales dashboard to analyze customer purchasing patterns, monitor business performance, and identify growth opportunities. The dashboard helps in making data-driven decisions to improve customer experience and increase overall sales.
+The Coffee Shop aims to create a sales analysis dashboard to understand customer purchasing behavior, monitor business performance, and identify growth opportunities. The dashboard helps in making data-driven decisions to improve customer experience and increase overall sales.
 
 ## Dataset Used
-- <a href="https://github.com/OmkarTatkare/coffee-business-insights/blob/main/Project_Coffee_Shop.xlsx">Dataset</a>
+- Coffee Shop Sales Dataset
+
+## Dataset Description
+
+The dataset contains transactional sales records from a coffee shop, including product details, sales revenue, store locations, order quantity, and time-based information used for sales analysis and dashboard creation.
+
+### Files Included
+
+| File Name | Description |
+|------------|-------------|
+| coffee_shop_sales.xlsx | Main dataset containing transaction records, product information, sales revenue, store locations, and order details |
+| dashboard.png | Dashboard screenshot displaying key business insights and KPIs |
 
 ## Questions (KPIs)
 - Compare sales performance across different months.
@@ -18,45 +29,30 @@ The Coffee Shop aims to create a comprehensive sales dashboard to analyze custom
 - Compare weekday sales performance.
 - Average bill per person and average orders per person.
 
-- Dashboard Interaction <a href="https://github.com/OmkarTatkare/coffee-business-insights/blob/main/Screenshot%202026-05-17%20033550.png">View Dashboard</a>
-
 ## Process
 - Verified dataset for missing values and inconsistencies.
 - Cleaned and transformed data for accurate analysis.
-- Created additional columns such as:
-  - Month Name
-  - Day Name
-  - Hour
-  - Total Bill
-- Built pivot tables for:
-  - Sales trends
-  - Product analysis
-  - Store performance
-  - Hourly transaction analysis
-- Designed an interactive dashboard using:
-  - Pivot Charts
-  - KPI Cards
-  - Slicers
-  - Dynamic filtering
+- Created additional columns such as Month Name, Day Name, Hour, and Total Bill.
+- Built Pivot Tables for sales trends, product analysis, store performance, and hourly transaction analysis.
+- Designed an interactive dashboard using Pivot Charts, KPI Cards, Slicers, and Dynamic Filters.
 
 ## Dashboard
 
-![Coffee Shop Dashboard](https://github.com/OmkarTatkare/coffee-business-insights/blob/main/Screenshot%202026-05-17%20033550.png)
+![Coffee Shop Dashboard](dashboard.png)
 
 ## Project Insights
 - June generated the highest overall sales among all months.
-- Peak customer activity was observed between **8 AM to 11 AM**.
-- **Hell’s Kitchen** contributed the highest store revenue.
+- Peak customer activity was observed between 8 AM and 11 AM.
+- Hell's Kitchen contributed the highest store revenue.
 - Coffee products accounted for the maximum share of total sales.
 - Large-sized beverages were ordered the most.
 - Weekday sales were comparatively higher than weekend sales.
-- Top-selling products included:
-  - Barista Espresso
-  - Brewed Chai Tea
-  - Gourmet Brewed Coffee
-  - Hot Chocolate
-- The average bill per person was approximately **4.69**.
-- More than **1.44 orders per customer** were recorded on average.
+- Top-selling products included Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee.
+- The average bill per person was approximately 4.69.
+- More than 1.44 orders per customer were recorded on average.
 
 ## Final Conclusion
-To improve sales and customer engagement, the Coffee Shop should focus on promoting high-performing beverage categories such as Coffee and Tea during peak morning hours. Since stores like Hell’s Kitchen and Astoria generate strong revenue, targeted loyalty programs and localized promotional campaigns can further enhance customer retention and profitability.
+To improve sales and customer engagement, the Coffee Shop should focus on promoting high-performing beverage categories such as Coffee and Tea during peak morning hours. Since stores like Hell's Kitchen and Astoria generate strong revenue, targeted loyalty programs and localized promotional campaigns can further enhance customer retention and profitability.
+
+## Project Description
+I developed a comprehensive Excel project involving data cleaning, data preprocessing, and interactive dashboard creation to analyze and visualize business data effectively. The project included creating Pivot Tables, Pivot Charts, KPI Cards, Slicers, and dynamic dashboards to generate meaningful insights and support data-driven decision-making.
